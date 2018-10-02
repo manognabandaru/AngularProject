@@ -1,0 +1,18 @@
+div {
+    background-color: darkgreen;
+    width: 700px;
+    height: 430px;
+    border: 5px solid blue;
+    padding: 10px;
+    margin: 10px; 
+    display:block;
+    margin-left: auto;
+    margin-right: auto;      
+}
+p{
+	color:white;
+    text-align:right;
+    padding-right: 50px;
+    padding-top: 2px;
+
+}
